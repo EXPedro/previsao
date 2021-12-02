@@ -1,10 +1,14 @@
-## Consulta clima
+# Previsão do tempo ⛅ 🌧️ 🌪️
+<img src ="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" width="auto" height="28px">
 
-Aplicativo de previsão do tempo, utilizando Angular como tecnologia front-end cosumindo uma API externa. Desenvolvido em *bootcamp* da Capgemini. Orientação do especialista [João Victor Ghignatti](https://www.linkedin.com/in/joaoghignatti/).
+Exemplo completamente funcional de um frontend que consome a API de previsão de tempo da OpenWeather
 
-Durante o desenvovimento do aplicativo foram evoluídos os conhecimentos em Angular e desenvolvimento Web.
+- Feito com o __Angular CLI__ 
 
-&nbsp;
+![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-> Projeto concluído em 10/2021.
+#### :purple_circle: Concluído em 15/10/2021.
 
