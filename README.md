@@ -2,6 +2,7 @@
 <img src ="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" width="auto" height="28px">
 
 Exemplo completamente funcional de um frontend que consome a API de previsão de tempo da OpenWeather
+Orientação do especialista [João Victor Ghignatti](https://www.linkedin.com/in/joaoghignatti/) da [Digital innovation One](https://web.dio.me/)
 
 - Feito com o __Angular CLI__ 
 
